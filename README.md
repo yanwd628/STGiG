@@ -24,4 +24,4 @@ STGiG: Spatiotemporal Graph-in-Graph for Deepfake Detection
 >     --weights_path [path to weights]
 
 🎉The weights are hosted on
-\href{https://drive.google.com/drive/folders/1zrTk3qWQdi6ScbWuadNdvrZXgxfQgJor?usp=drive_link}{Google Drive}
+[Google Drive](https://drive.google.com/drive/folders/1zrTk3qWQdi6ScbWuadNdvrZXgxfQgJor?usp=drive_link)
