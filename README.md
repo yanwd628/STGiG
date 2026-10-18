@@ -14,13 +14,14 @@ STGiG: Spatiotemporal Graph-in-Graph for Deepfake Detection
 
 + Training 
 
->     python training/train.py --detector_path ./training/config/config/detector/[gigbase.yaml/gigbase_nodecls.yaml/gignewbone.yaml]
+>     python training/train.py --detector_path ./training/config/config/detector/[gigbase.yaml/gignewbone.yaml]
 
 + Evaluation
 
 >     python training/test.py \
->     --detector_path ./training/config/config/detector/[gigbase.yaml/gigbase_nodecls.yaml/gignewbone.yaml] \
+>     --detector_path ./training/config/config/detector/[gigbase.yaml/gignewbone.yaml] \
 >     --test_dataset "Celeb-DF-v2" \
 >     --weights_path [path to weights]
 
-PS: Our weights will be available after the paper is accepted.
+🎉The weights are hosted on
+\href{https://drive.google.com/drive/folders/1zrTk3qWQdi6ScbWuadNdvrZXgxfQgJor?usp=drive_link}{Google Drive}
