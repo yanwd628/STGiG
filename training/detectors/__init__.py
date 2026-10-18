@@ -43,6 +43,5 @@ from .uia_vit_detector import UIAViTDetector
 from .multi_attention_detector import MultiAttentionDetector
 from .sia_detector import SIADetector
 from .tall_detector import TALLDetector
-from .gig_base_detector import GIGBaseDetector
-from .gig_base_nodecls_detector import GIGBaseNCDetector
-from .gig_newbone_detector import GIGNewBoneDetector
+from .fixed_gig_newbone_detector import FixedGIGNewBoneDetector
+from .fixed_gig_base_detector import FixedGIGBaseDetector
